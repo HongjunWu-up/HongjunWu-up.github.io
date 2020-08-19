@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 没有人是一座孤岛，可以自全。
+keywords: Hongjun Wu, 吴红军
 comments: true
 menu: 关于
 permalink: /about/
 ---
-
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+任何人的死亡都将是我的损失，
+因为我是人类的一部分。
+因此，不要问警钟为谁而鸣，
+它就为你而鸣。
 
 ## 联系
 
