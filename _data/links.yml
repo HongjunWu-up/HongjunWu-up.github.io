@@ -1,8 +1,12 @@
 #  src作为标识码，在link.md中修改
 - name: 码志
   url: http://mazhuang.org
-  src: life
+  src: www
 
 - name: Wu H.J的博客
   url: https://hongjunwu-up.github.io
-  src: www
+  src: life
+- name: 码云
+  url: https://gitee.com/hongjunwuup
+  src: life
+
