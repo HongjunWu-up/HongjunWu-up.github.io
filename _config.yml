@@ -5,8 +5,8 @@ baseurl:
 url: https://hongjunwu-up.github.io/
 date_format: "ordinal"
 title: Wu H.J
-subtitle: "公众号：创建中..."
-description: "吴红军的个人博客，公众号：创建中..."
+subtitle: "I am Jun"
+description: "吴红军的个人博客"
 keywords: CV, deep-learning, Wu H.J
 timezone: Asia/Chengdu
 encoding: "utf-8"
@@ -43,7 +43,7 @@ organization:
 organization_url: 
 github_username: hongjunwu-up
 location: Chengdu, China
-email: HongjunWu-up@163.com
+email: HongjunWu_up@163.com
 
 # ---------------- #
 #    Navigation    #
