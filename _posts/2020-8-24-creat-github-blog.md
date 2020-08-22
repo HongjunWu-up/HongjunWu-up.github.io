@@ -7,10 +7,10 @@ keywords: GitHub,Jekyll , Markdown
 ---
 ## 1.目的 ##
 
-GitHub 作为一个面向开源及私有软件项目的托管平台，堪比程序界的Facebook。而GitHub Pages作为一款定制性强，轻量级的博客系统，同时有利于学习GitHub的使用，自然成为博客搭建的选择之一。本篇文章会详细的介绍如何使用 Jekyll 模板搭建 GitHub 个人博客，**入门级教程，暂时不需要用到 git、gem、jekyll 指令**，相应的文件和安装包下载链接文章会给出。
+GitHub 作为一个面向开源及私有软件项目的托管平台，堪比程序界的Facebook。而GitHub Pages作为一款定制性强，轻量级的博客系统，同时有利于学习GitHub的使用，自然成为博客搭建的选择之一。本篇文章会详细的介绍如何使用 GitHub Pages 和 Jekyll 模板搭建个人博客，**入门级教程，暂时不需要用到 git、gem、jekyll 指令**，相应的文件和安装包下载链接文章会给出。
 ## 2.GitHub Pages介绍 ## 
-GitHub Pages 是一个静态网站托管服务，直接从 GitHub 仓库托管你个人、公司或者项目页面 ，并且不需要个人额外书写任何后端语言来支持。而 nodejs 的 hexo 和 ruby 的 jekyll 均是静态网页生成系统，生成模板中原始文本格式的文档，通过转换器（如 Markdown ）和渲染器转化成一个完整的可发布的静态网站，发布在Github Pages上，进而完成博客网页的创建。  
-**第一步**:注册一个 GitHub 账号，然后到个人主界面里面，创建一个新的 Repository。    
+GitHub Pages 是一个静态网站托管服务，直接从 GitHub 仓库托管你个人、公司或者项目页面 ，并且不需要个人额外书写任何后端语言来支持。而 nodejs 的 hexo 和 ruby 的 jekyll 均是静态网页生成系统，生成模板中原始文本格式的文档，通过转换器（如 Markdown ）和渲染器转化成一个完整的可发布的静态网站，发布在Github Pages上，进而完成博客网页的创建。    
+**第一步:注册一个 GitHub 账号，然后到个人主界面里面，创建一个新的 Repository。**      
 **注意:命名一定是用户名.github.io。** README 选项也可勾选上。    
 ![github-pages](/images/blog/github-pages.png)
 此时访问 https://用户名.github.io/ 便可以看到简陋版的个人博客了。例如博主博客： [https://hongjunwu-up.github.io/](https://hongjunwu-up.github.io/)
@@ -48,11 +48,11 @@ url、基本信息修改：**
 push 成功后便可以访问[https://用户名.github.io/]查看自己的博客了。（若安装了Jekyll，使用`jekyll s`指令可以实现本地访问，参考 [Jekyll 官网](https://www.jekyll.com.cn/)）。  
 ## 5.markdow 编辑器写博文 ##
 上文中提到 Jekyll 支持 markdown，那什么是 Markdown 呢？Markdown 是一款面向 web 作者的文本到 html 转换工具。Markdown 允许您使用易于阅读、易于编写的纯文本格式进行编写，然后将其转换为结构上有效的XHTML(或HTML)。Markdown 编辑器众多，可自行搜索根据优缺点选择。博主使用的是 MarkdownPad2 写文章，windows 用户较多，可实现实时预览。  
-**第四步：使用 MarkdownPad2 写文章**
+**第四步：使用 MarkdownPad2 写文章**  
 1.下载 MarkdownPad2 安装包，Win10 要实时预览还需额外安装组件 awesomium_v1.6.6_sdk_win，安装包和组件下载链接见文末。[安装教程参考](https://www.jianshu.com/p/1745a7f53404  )  
 2.由于 MarkdownPad2 默认的 Processor 和 GitHub 不太一样，故需设置成 GitHub 风格。设置路径为：工具->选项，再按照下图操作。
 ![markdownpad2-setting2.png](/images/blog/markdownpad2-setting2.png)    
-若预览页面显示 MarkdownPad2 无法使用gihub Markdown在线风格，提示“请求被中止: 未能创建 SSL/TLS 安全通道”，请安装.Net Framework 4.5以上版本。[解决方法参考此博客。](https://blog.csdn.net/qq18938308968/article/details/86243272)  
+（若预览页面显示 MarkdownPad2 无法使用gihub Markdown在线风格，提示“请求被中止: 未能创建 SSL/TLS 安全通道”，请安装.Net Framework 4.5以上版本。[解决方法参考此博客。](https://blog.csdn.net/qq18938308968/article/details/86243272) ） 
 3.到此为止，MarkdownPad2 的环境搭建完成，[点击熟悉 markdown 的语法](https://www.jianshu.com/p/e9840793d8c2)。此时便可以专心码字，创作属于你的博文了。
 记住文章命名为 year-month-day-blog name.md,放入_posts文件夹,使用 GitHub Desktop push 到 GitHub，便可以看到更新的博文了。细节性的处理还需各位慢慢摸索，希望对你有帮助。
 
