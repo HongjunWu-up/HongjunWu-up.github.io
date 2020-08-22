@@ -56,10 +56,10 @@ push 成功后便可以访问[https://用户名.github.io/]查看自己的博客
 3.到此为止，MarkdownPad2 的环境搭建完成，[点击熟悉 markdown 的语法](https://www.jianshu.com/p/e9840793d8c2)。此时便可以专心码字，创作属于你的博文了。
 记住文章命名为 year-month-day-blog name.md,放入_posts文件夹,使用 GitHub Desktop push 到 GitHub，便可以看到更新的博文了。细节性的处理还需各位慢慢摸索，希望对你有帮助。
 
-**文档下载链接：**
-码志博客链接：https://pan.baidu.com/s/1dbYX7HUfwR-ENxA5cq0zjQ  提取码：mgww  
-notepad 安装包链接：https://pan.baidu.com/s/1wWGy6l45HsVsdjh1MM9eig   提取码：uflm  
-GitHub Desktop链接：https://pan.baidu.com/s/1D5BPMSLtoFal9PF-nsrCPg   提取码：14ta  
-MarkdownPad2相关文件（安装包、组件、.Net Framework 4.7）链接：https://pan.baidu.com/s/1HpQ8Ix8gOGBMGL4tmayM2g   提取码：96lx
-Git 安装包（使用 git 指令的可下载）链接：https://pan.baidu.com/s/1z25Jb0djqTntVGNkGrRtgQ  提取码：b6fs
+**文档下载链接：**  
+1.码志博客链接：[https://pan.baidu.com/s/1dbYX7HUfwR-ENxA5cq0zjQ](https://pan.baidu.com/s/1dbYX7HUfwR-ENxA5cq0zjQ)  提取码：mgww  
+2.notepad 安装包链接：[https://pan.baidu.com/s/1wWGy6l45HsVsdjh1MM9eig](https://pan.baidu.com/s/1wWGy6l45HsVsdjh1MM9eig)   提取码：uflm    
+3.GitHub Desktop链接：[https://pan.baidu.com/s/1D5BPMSLtoFal9PF-nsrCPg](https://pan.baidu.com/s/1D5BPMSLtoFal9PF-nsrCPg)   提取码：14ta    
+4.MarkdownPad2相关文件（安装包、组件、.Net Framework 4.7）链接：[https://pan.baidu.com/s/1HpQ8Ix8gOGBMGL4tmayM2g   ](https://pan.baidu.com/s/1HpQ8Ix8gOGBMGL4tmayM2g   )提取码：96lx    
+5.Git 安装包（使用 git 指令的可下载）链接：[https://pan.baidu.com/s/1z25Jb0djqTntVGNkGrRtgQ](https://pan.baidu.com/s/1z25Jb0djqTntVGNkGrRtgQ)  提取码：b6fs
 
