@@ -1,13 +1,13 @@
 ---
 layout: post
 title: GitHub+Jekyll 模板搭建个人博客（入门教程）
-categories:Blog
+categories: Blog
 description: 利用 GitHub Pages 搭建个人博客
 keywords: GitHub,Jekyll , Markdown
 ---
 ## 1.目的 ##
 
-GitHub 作为一个面向开源及私有软件项目的托管平台，堪比程序界的Facebook。而GitHub Pages作为一款定制性强，轻量级的博客系统，同时有利于学习GitHub的使用，自然成为本人博客搭建的不二选择。本篇文章会详细的介绍如何使用 Jekyll 模板搭建 GitHub 个人博客，**入门级教程，暂时不需要用到 git、gem、jekyll 指令**，相应的文件和安装包下载链接文章会给出。
+GitHub 作为一个面向开源及私有软件项目的托管平台，堪比程序界的Facebook。而GitHub Pages作为一款定制性强，轻量级的博客系统，同时有利于学习GitHub的使用，自然成为博客搭建的选择之一。本篇文章会详细的介绍如何使用 Jekyll 模板搭建 GitHub 个人博客，**入门级教程，暂时不需要用到 git、gem、jekyll 指令**，相应的文件和安装包下载链接文章会给出。
 ## 2.GitHub Pages介绍 ## 
 GitHub Pages 是一个静态网站托管服务，直接从 GitHub 仓库托管你个人、公司或者项目页面 ，并且不需要个人额外书写任何后端语言来支持。而 nodejs 的 hexo 和 ruby 的 jekyll 均是静态网页生成系统，生成模板中原始文本格式的文档，通过转换器（如 Markdown ）和渲染器转化成一个完整的可发布的静态网站，发布在Github Pages上，进而完成博客网页的创建。  
 **第一步**:注册一个 GitHub 账号，然后到个人主界面里面，创建一个新的 Repository。    
@@ -57,4 +57,5 @@ push 成功后便可以访问[https://用户名.github.io/]查看自己的博客
 notepad 安装包链接：https://pan.baidu.com/s/1wWGy6l45HsVsdjh1MM9eig   提取码：uflm  
 GitHub Desktop链接：https://pan.baidu.com/s/1D5BPMSLtoFal9PF-nsrCPg   提取码：14ta  
 MarkdownPad2相关文件（安装包、组件、.Net Framework 4.7）链接：https://pan.baidu.com/s/1HpQ8Ix8gOGBMGL4tmayM2g   提取码：96lx
+Git 安装包（使用 git 指令的可下载）链接：https://pan.baidu.com/s/1z25Jb0djqTntVGNkGrRtgQ  提取码：b6fs
 
